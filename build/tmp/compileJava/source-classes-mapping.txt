@@ -1,2 +1,2 @@
-com/statefarm/CommandLine.java
- com.statefarm.CommandLine
+com/statefarm/SumOfPositivesCLI.java
+ com.statefarm.SumOfPositivesCLI
